@@ -20,6 +20,6 @@ public class WxlEmailApplication {
 
 	@RequestMapping("/sendEmail")
 	public void sendMail(){
-		emailKit.sendEmail();
+		 emailKit.sendEmail();
 	}
 }
