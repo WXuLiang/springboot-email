@@ -14,6 +14,8 @@ public class WxlEmailApplication {
 	@Autowired
 	EmailKit emailKit;
 
+
+
 	public static void main(String[] args) {
 		SpringApplication.run(WxlEmailApplication.class, args);
 	}
