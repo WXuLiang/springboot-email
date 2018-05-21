@@ -16,6 +16,8 @@ public class WxlEmailApplication {
 
 
 
+
+
 	public static void main(String[] args) {
 		SpringApplication.run(WxlEmailApplication.class, args);
 	}
